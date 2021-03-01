@@ -16,17 +16,21 @@
 		 	<input type="submit" value="Submit">
 		 </form>
 		 <br>
-		 <table>
-		 	<tr>
-		 		<th>Pushups</th>
-		 		<th>Pullups</th>
-		 		<th>Mile Run</th>
-		 	</tr>
-		 	<tr>
-		 		<td>40</td>
-		 		<td>10</td>
-		 		<td>8:00</td>
-		 	</tr>
+		 <table class="table">
+		 	<thead class="thead-dark">
+		 		<tr>
+		 			<th>Pushups</th>
+		 			<th>Pullups</th>
+		 			<th>Mile Run</th>
+		 		</tr>
+		 	</thead>
+		 	<tbody>
+		 		<tr>
+		 			<td>40</td>
+		 			<td>10</td>
+		 			<td>8:00</td>
+		 		</tr>
+		 	</tbody>
 		 </table>
 	</body>
 </html>
