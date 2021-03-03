@@ -6,7 +6,7 @@
 	<body>
 		<h1>Fitness Logger</h1>
 		<br>
-		 <form>
+		 <form action="log.php" method="POST">
 		 	<label for="push_ups">Pushups:</label>
 		 	<input type="text" id="push_ups" name="push_ups">
 		 	<label for="pull_ups">Pullups:</label>
@@ -25,12 +25,12 @@
 		 		</tr>
 		 	</thead>
 		 	<tbody>
-		 		<tr>
-		 			<td>40</td>
-		 			<td>10</td>
-		 			<td>8:00</td>
-		 		</tr>
-		 	</tbody>
+				<tr>
+					<td> </td>
+					<td> </td>
+					<td> </td>
+				</tr>
+			</tbody>
 		 </table>
 	</body>
 </html>
