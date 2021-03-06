@@ -26,9 +26,13 @@
 		 	</thead>
 		 	<tbody>
 				<tr>
-					<td> </td>
-					<td> </td>
-					<td> </td>
+					<?php
+					$data = file_get_contents("data.json");
+					$data = json_decode($data);
+					echo '<pre>';
+					print_r($data);
+					echo '</pre>';
+					?>
 				</tr>
 			</tbody>
 		 </table>
