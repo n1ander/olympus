@@ -1,0 +1,13 @@
+{
+	"entries": [{
+		"id": 1,
+		"pushups": 50,
+		"pullups": 10,
+		"mile": "8:20"
+	}, {
+		"id": 2,
+		"pushups": 60,
+		"pullups": 12,
+		"mile": "9:00"
+	}]
+}
