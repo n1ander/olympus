@@ -1,5 +1,6 @@
 {
-	"entries": [{
+	"entries": [
+	{
 		"id": 1,
 		"pushups": 50,
 		"pullups": 10,
@@ -9,5 +10,15 @@
 		"pushups": 60,
 		"pullups": 12,
 		"mile": "9:00"
+	}, {
+		"id": 3,
+		"pushups": 65,
+		"pullups": 14,
+		"mile": "8:45"
+	}, {
+		"id": 4,
+		"pushups": 62,
+		"pullups": 12,
+		"mile": "7:25"
 	}]
 }
