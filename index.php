@@ -2,7 +2,6 @@
 	<?php include 'includes/header.php'; ?>
 	<?php include 'includes/navbar.php'; ?>
 	<body>
-		<h1>Fitness Logger</h1>
 		<?php include 'includes/fitness_log_form.php'; ?>
 		<?php include 'includes/fitness_log.php'; ?>
 	</body>
